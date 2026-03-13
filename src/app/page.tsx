@@ -17,8 +17,8 @@ export default function HomePage() {
         {/* Video placeholder background */}
         <div className="absolute inset-0 bg-forest-dark">
           <Image
-            src="https://images.unsplash.com/photo-1509718443690-d8e2fb3474b7?w=1920&q=80"
-            alt="Mechanical clock gears"
+            src="/images/hero-gears.png"
+            alt="Intricate brass clock gears and mechanical movement"
             fill
             className="object-cover opacity-40"
             priority
@@ -108,8 +108,8 @@ export default function HomePage() {
             <AnimatedSection direction="left">
               <div className="relative aspect-[4/5] overflow-hidden">
                 <Image
-                  src="https://images.unsplash.com/photo-1533709752211-118fcaf03312?w=800&q=80"
-                  alt="Detailed clockwork mechanism"
+                  src="/images/heritage-carving.png"
+                  alt="Hand-carved linden wood cuckoo clock detail"
                   fill
                   className="object-cover"
                 />
@@ -215,8 +215,8 @@ export default function HomePage() {
       <section className="relative py-24 lg:py-32 overflow-hidden">
         <div className="absolute inset-0 bg-forest">
           <Image
-            src="https://images.unsplash.com/photo-1524678606370-a47ad25cb82a?w=1920&q=80"
-            alt="Workshop atmosphere"
+            src="/images/craftsmanship-workshop.png"
+            alt="Master woodcarver's workbench with cuckoo clock and tools"
             fill
             className="object-cover opacity-15"
           />

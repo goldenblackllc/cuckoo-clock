@@ -44,8 +44,8 @@ export default function HeritagePage() {
       <section className="relative bg-forest pt-12 pb-20 lg:pt-16 lg:pb-28 overflow-hidden">
         <div className="absolute inset-0">
           <Image
-            src="https://images.unsplash.com/photo-1533709752211-118fcaf03312?w=1920&q=80"
-            alt="Clock mechanism detail"
+            src="/images/black-forest.png"
+            alt="Foggy Black Forest landscape at dawn"
             fill
             className="object-cover opacity-10"
           />
