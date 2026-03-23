@@ -12,7 +12,7 @@ export interface Product {
 export const products: Product[] = [
   {
     id: "bfc-001",
-    name: "Schwarzwald Elegance",
+    name: "Golden Black Elegance",
     price: 2850,
     category: "carved",
     movement: "8-day",

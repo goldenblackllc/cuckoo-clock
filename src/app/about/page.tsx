@@ -159,14 +159,14 @@ export default function AboutPage() {
                 </div>
 
                 <p className="text-charcoal/60 text-lg leading-relaxed">
-                  Schwarzwald Uhrenmanufaktur was founded in 1987 by a third-generation
+                  Golden Black was founded in 1987 by a third-generation
                   Black Forest clockmaker who saw the art form he loved being
                   overshadowed by cheap, mass-produced imitations from overseas.
                 </p>
 
                 <p className="text-charcoal/50 leading-relaxed">
                   Today, we work directly with 37 master artisans across the
-                  Schwarzwald region, each specializing in a different aspect of
+                  Black Forest region, each specializing in a different aspect of
                   the craft — from woodcarving and painting to movement assembly
                   and acoustic tuning. We don&apos;t just sell clocks; we are
                   custodians of a living tradition.
@@ -264,7 +264,7 @@ export default function AboutPage() {
                   {[
                     {
                       label: "Email",
-                      value: "concierge@schwarzwald-uhren.de",
+                      value: "concierge@goldenblack.com",
                       icon: "✉",
                     },
                     {

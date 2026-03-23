@@ -18,7 +18,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Schwarzwald Uhrenmanufaktur — Luxury Mechanical Cuckoo Clocks",
+  title: "Golden Black — Luxury Mechanical Cuckoo Clocks",
   description:
     "Discover hand-crafted mechanical cuckoo clocks from Germany's Black Forest. Authentic VdS-certified timepieces with precision movements, carved by master artisans since 1987.",
   keywords: [
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     "mechanical clocks",
     "luxury timepieces",
     "VdS certified",
-    "Schwarzwald",
+    "Golden Black",
   ],
 };
 

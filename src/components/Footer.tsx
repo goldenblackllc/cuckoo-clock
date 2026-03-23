@@ -56,7 +56,7 @@ export default function Footer() {
                 </svg>
               </div>
               <span className="font-heading text-lg text-gallery">
-                Schwarzwald
+                Golden Black
               </span>
             </div>
             <p className="text-sm leading-relaxed text-gallery/50 max-w-sm mb-6">
@@ -103,7 +103,7 @@ export default function Footer() {
         {/* Bottom bar */}
         <div className="mt-16 pt-8 border-t border-gallery/5 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-xs text-gallery/30">
-            © 2026 Schwarzwald Uhrenmanufaktur. All rights reserved.
+            © 2026 Golden Black. All rights reserved.
           </p>
           <p className="text-xs text-gallery/20 italic">
             Handcrafted with precision in the Black Forest

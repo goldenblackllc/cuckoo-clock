@@ -36,10 +36,10 @@ export default function Header() {
             </div>
             <div>
               <span className="font-heading text-xl text-gallery tracking-wide">
-                Schwarzwald
+                Golden Black
               </span>
               <span className="block text-[10px] uppercase tracking-[0.3em] text-brass/80">
-                Uhrenmanufaktur
+                Luxury Cuckoo Clocks
               </span>
             </div>
           </Link>

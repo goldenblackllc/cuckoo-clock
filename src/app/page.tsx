@@ -56,7 +56,7 @@ export default function HomePage() {
             transition={{ duration: 1, delay: 0.6, ease: [0.25, 0.4, 0.25, 1] }}
             className="text-gallery/60 text-lg sm:text-xl max-w-2xl mx-auto leading-relaxed mb-10"
           >
-            Hand-carved masterpieces from the heart of the Schwarzwald.
+            Hand-carved masterpieces from the heart of the Black Forest.
             Each clock is a living work of art — crafted over hundreds
             of hours by master woodcarvers using techniques passed down
             through generations.
@@ -232,7 +232,7 @@ export default function HomePage() {
               it tells a story.&rdquo;
             </h2>
             <p className="text-gallery/50 text-lg max-w-2xl mx-auto leading-relaxed">
-              Every Schwarzwald timepiece comes with complimentary white-glove
+              Every Golden Black timepiece comes with complimentary white-glove
               delivery, a lifetime movement guarantee, and the certainty that
               you own a piece of living history.
             </p>

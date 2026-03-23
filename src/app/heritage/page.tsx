@@ -27,13 +27,13 @@ const timeline = [
     year: "1987",
     title: "Our Beginning",
     description:
-      "Schwarzwald Uhrenmanufaktur is founded with a mission to curate and preserve the finest examples of mechanical clockmaking from the Black Forest.",
+      "Golden Black is founded with a mission to curate and preserve the finest examples of mechanical clockmaking from the Black Forest.",
   },
   {
     year: "Today",
     title: "Living Tradition",
     description:
-      "We partner with 37 master artisans across the Schwarzwald, ensuring every clock meets the exacting standards of the VdS certification.",
+      "We partner with 37 master artisans across the Black Forest, ensuring every clock meets the exacting standards of the VdS certification.",
   },
 ];
 
