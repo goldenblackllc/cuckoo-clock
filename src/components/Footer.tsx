@@ -61,7 +61,7 @@ export default function Footer() {
             </div>
             <p className="text-sm leading-relaxed text-gallery/50 max-w-sm mb-6">
               Curating the finest hand-crafted mechanical cuckoo clocks from the
-              heart of Germany&apos;s Black Forest since 1987. Each timepiece is a
+              heart of Germany&apos;s Black Forest. Each timepiece is a
               testament to centuries of horological tradition.
             </p>
 

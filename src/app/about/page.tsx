@@ -121,9 +121,9 @@ export default function AboutPage() {
               <span className="text-gradient-brass">Timeless Craft</span>
             </h1>
             <p className="text-gallery/50 text-lg max-w-2xl mx-auto">
-              For nearly four decades, we have dedicated ourselves to preserving
-              the art of mechanical clockmaking by connecting discerning
-              collectors with the world&apos;s finest artisans.
+              We dedicated ourselves to preserving the art of mechanical
+              clockmaking by connecting discerning collectors with the
+              world&apos;s finest artisans.
             </p>
           </motion.div>
         </div>
@@ -159,9 +159,9 @@ export default function AboutPage() {
                 </div>
 
                 <p className="text-charcoal/60 text-lg leading-relaxed">
-                  Golden Black was founded in 1987 by a third-generation
-                  Black Forest clockmaker who saw the art form he loved being
-                  overshadowed by cheap, mass-produced imitations from overseas.
+                  Golden Black was founded in 2025 by a team passionate about
+                  preserving the art of mechanical clockmaking — an art form
+                  being overshadowed by cheap, mass-produced imitations from overseas.
                 </p>
 
                 <p className="text-charcoal/50 leading-relaxed">
@@ -183,7 +183,7 @@ export default function AboutPage() {
 
                 <div className="grid grid-cols-2 gap-6">
                   {[
-                    { number: "1987", label: "Founded" },
+                    { number: "2025", label: "Founded" },
                     { number: "37", label: "Artisan Partners" },
                     { number: "2,400+", label: "Clocks Delivered" },
                     { number: "48", label: "Countries Served" },
@@ -269,14 +269,8 @@ export default function AboutPage() {
                     },
                     {
                       label: "Phone",
-                      value: "+49 7722 918 200",
+                      value: "(406) 312-5580",
                       icon: "☎",
-                    },
-                    {
-                      label: "Showroom",
-                      value:
-                        "Hauptstraße 47, 78098 Triberg im Schwarzwald, Germany",
-                      icon: "◉",
                     },
                   ].map((item) => (
                     <div key={item.label} className="flex items-start gap-4">
@@ -297,8 +291,8 @@ export default function AboutPage() {
 
                 <div className="bg-forest/5 border-l-2 border-brass p-6">
                   <p className="text-sm text-charcoal/50 italic">
-                    Showroom visits are by appointment only. We offer private
-                    viewings where you can experience our full collection.
+                    Our team is available Monday–Friday to help you find the
+                    perfect timepiece, answer questions, or assist with care and maintenance.
                   </p>
                 </div>
               </div>

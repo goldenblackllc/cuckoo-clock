@@ -35,7 +35,7 @@ export default function HomePage() {
             transition={{ duration: 1, delay: 0.2, ease: [0.25, 0.4, 0.25, 1] }}
           >
             <span className="inline-block text-xs uppercase tracking-[0.4em] text-brass mb-6 border border-brass/30 px-5 py-2">
-              Est. 1987 — Black Forest, Germany
+              Est. 2025 — Montana, USA
             </span>
           </motion.div>
 

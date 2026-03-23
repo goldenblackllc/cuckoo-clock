@@ -20,7 +20,7 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: "Golden Black — Luxury Mechanical Cuckoo Clocks",
   description:
-    "Discover hand-crafted mechanical cuckoo clocks from Germany's Black Forest. Authentic VdS-certified timepieces with precision movements, carved by master artisans since 1987.",
+    "Discover hand-crafted mechanical cuckoo clocks from Germany's Black Forest. Authentic VdS-certified timepieces with precision movements, curated by Golden Black.",
   keywords: [
     "cuckoo clocks",
     "Black Forest",

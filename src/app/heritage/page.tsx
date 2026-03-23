@@ -24,7 +24,7 @@ const timeline = [
       "Friedrich Eisenlohr designs the iconic 'Bahnhäusleuhr' (railroad house clock), establishing the classic chalet style still beloved today.",
   },
   {
-    year: "1987",
+    year: "2025",
     title: "Our Beginning",
     description:
       "Golden Black is founded with a mission to curate and preserve the finest examples of mechanical clockmaking from the Black Forest.",
